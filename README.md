@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![snake gif](https://github.com/NoahAhadid/NoahAhadid/blob/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoahAhadid/NoahAhadid/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoahAhadid/NoahAhadid/output/github-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/NoahAhadid/NoahAhadid/output/github-snake.svg">
+</picture>
 </div>
